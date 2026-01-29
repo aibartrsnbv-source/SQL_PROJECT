@@ -20,7 +20,7 @@ GROUP BY
     skills
 ORDER BY
     avg_salary DESC
-LIMIT 25;
+LIMIT 20;
 
 /*
 For remote Data Analyst roles with specified salaries, skills like PySpark, Bitbucket, Couchbase, and Watson are associated with the highest average salaries, exceeding $150,000 per year. 
